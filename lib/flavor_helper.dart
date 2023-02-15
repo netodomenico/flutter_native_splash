@@ -91,7 +91,7 @@ class _FlavorHelper {
   }
 
   String get iOSLaunchScreenStoryboardFile {
-    return 'ios/Runner/it.lproj/$iOSLaunchScreenStoryboardName.storyboard';
+    return 'ios/Runner/Base.lproj/$iOSLaunchScreenStoryboardName.storyboard';
   }
 
   String get iOSLaunchScreenStoryboardName {
